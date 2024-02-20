@@ -1,0 +1,21 @@
+{
+  "short_name": "The Blockchain Feed",
+  "name": "The Tatum Blockchain Feed",
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/62624e283b503f3e68275638/65d47bdc17766089a471f842_Curated%20News%20Feed%20-%20Logo%20-%20Small.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/62624e283b503f3e68275638/65d47bdc158766ab552a5acf_Curated%20News%20Feed%20-%20Logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#FFFFFF"
+}
